@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-# 👋 Hi there, I'm **Mohammed Warith**
+# 👋 Hi there, I'm **Mohammed Ourrat**
 
 🎯 **Full-Stack Developer** | 💡 Passionate about building modern web applications and efficient backend systems.  
 💻 I love working with both frontend and backend technologies to bring ideas to life.
