@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-# 👋 Hi there, I'm **Mohammed Warith**
+# 👋 Hi there, I'm **Mohammed ourrat**
 
 🎯 **Full-Stack Developer** | 💡 Passionate about building modern web applications and efficient backend systems.  
 💻 I love working with both frontend and backend technologies to bring ideas to life.
@@ -47,7 +47,7 @@
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=mohammedwarith&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" 
+          src="https://github-readme-stats.vercel.app/api?username=ourrat&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" 
           alt="GitHub Stats" 
           height="170"
         />
