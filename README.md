@@ -65,15 +65,12 @@
   <br>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedwarith&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourrat&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
     alt="Top Languages"
     height="170"
   />
 
 </div>
-
----
-
 
 ---
 
