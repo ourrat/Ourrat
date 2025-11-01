@@ -54,7 +54,7 @@
       </td>
       <td>
         <img 
-          src="https://streak-stats.demolab.com?user=mohammedwarith&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF79C6&currStreakLabel=58A6FF" 
+          src="https://streak-stats.demolab.com?user=ourrat&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF79C6&currStreakLabel=58A6FF" 
           alt="GitHub Streak"
           height="170"
         />
