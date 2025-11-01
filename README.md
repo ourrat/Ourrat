@@ -76,12 +76,12 @@
 
 ## 📂 Featured Projects
 
-<a href="https://github.com/mohammedwarith/your-project-1" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedwarith&repo=your-project-1&theme=gruvbox"></a>
-<a href="https://github.com/mohammedwarith/your-project-2" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedwarith&repo=your-project-2&theme=gruvbox"></a>
+<a href="https://github.com/mohammedwarith/your-project-1" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ourrat&repo=your-project-1&theme=gruvbox"></a>
+<a href="https://github.com/mohammedwarith/your-project-2" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ourrat&repo=your-project-2&theme=gruvbox"></a>
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohammedwarith.mohammedwarith)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ourrat.ourrat)
 
 </div>
 
