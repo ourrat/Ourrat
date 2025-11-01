@@ -41,8 +41,39 @@
 
 ## 📈 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammedwarith&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedwarith&layout=compact&theme=gruvbox" />
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=mohammedwarith&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" 
+          alt="GitHub Stats" 
+          height="170"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://streak-stats.demolab.com?user=mohammedwarith&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF79C6&currStreakLabel=58A6FF" 
+          alt="GitHub Streak"
+          height="170"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedwarith&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
+    alt="Top Languages"
+    height="170"
+  />
+
+</div>
+
+---
+
 
 ---
 
